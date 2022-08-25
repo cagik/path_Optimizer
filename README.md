@@ -2,6 +2,7 @@
 
 this code is based on https://github.com/libai1943/CartesianPlanner
 
+I changed some of the variable constraints and the objective function to optmize my trajectory
 
 ## how to run
 ```
