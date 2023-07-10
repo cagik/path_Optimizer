@@ -58,7 +58,7 @@ void CartesianPlannerTest(){
 }
 
 int main(){
-
+    cout << "test" << endl;
     CartesianPlannerTest();
     return 0;
 }
