@@ -58,7 +58,7 @@ void CartesianPlannerTest(){
 }
 
 int main(){
-cout << "git test" << endl;
+
     CartesianPlannerTest();
     return 0;
 }
